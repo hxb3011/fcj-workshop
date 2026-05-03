@@ -1,7 +1,14 @@
 ---
 title: "Worklog"
 date: 2026-05-02
+weight: 1
+chapter: false
+pre: " <b> 1. </b> "
 ---
+
+I completed my internship in 8 weeks (approximately 2 months), following the AWS training curriculum and developing a real-world project.
+
+This worklog is presented week by week, detailing the process from getting acquainted with the cloud infrastructure to completing the project:
 
 **Week 1:** [Connect with the FCJ team, get familiar with AWS, and practice user management with IAM](1.1-week1/)
 

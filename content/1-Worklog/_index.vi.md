@@ -1,6 +1,9 @@
 ---
 title: "Worklog"
 date: 2026-05-02
+weight: 1
+chapter: false
+pre: " <b> 1. </b> "
 ---
 
 Em đã hoàn thành chương trình thực tập trong vòng 8 tuần (tương đương khoảng 2 tháng), bám sát lộ trình đào tạo về AWS và phát triển dự án thực tế.  
