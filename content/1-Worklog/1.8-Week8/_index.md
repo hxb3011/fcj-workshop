@@ -18,7 +18,7 @@ pre: " <b> 1.8. </b> "
 | Mon | - Practice monitoring with CloudWatch and CloudWatch Agent | 04/27/2026 | 04/27/2026 | — |
 | Wed | - Connect CloudWatch with Lambda using Terraform | 04/29/2026 | 04/29/2026 | — |
 | Fri | - Test the system, fix arising errors | 05/01/2026 | 05/01/2026 | — |
-| Sun | - Write the Workshop report, finalize the project | 05/03/2026 | 05/03/2026 | — |
+| Sat | - Write the Workshop report, finalize the project | 05/02/2026 | 05/02/2026 | — |
 
 ### Week 8 Achievements:
 * Completed system monitoring with CloudWatch.

@@ -18,7 +18,7 @@ pre: " <b> 1.8. </b> "
 | 2   | - Thực hành giám sát với CloudWatch và CloudWatch Agent | 27/04/2026 | 27/04/2026 | — |
 | 4   | - Kết nối CloudWatch với Lambda bằng Terraform | 29/04/2026 | 29/04/2026 | — |
 | 6   | - Kiểm thử hệ thống, sửa lỗi phát sinh | 01/05/2026 | 01/05/2026 | — |
-| CN  | - Viết báo cáo Workshop, hoàn thiện đồ án | 03/05/2026 | 03/05/2026 | — |
+| 7   | - Viết báo cáo Workshop, hoàn thiện đồ án | 02/05/2026 | 02/05/2026 | — |
 
 ### Kết quả đạt được tuần 8:
 * Hoàn thành việc giám sát hệ thống bằng CloudWatch.

@@ -6,10 +6,9 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-
 ### Overall Evaluation
 
-**1. Working Environment** The working environment is very friendly and open. FCJ members are always ready to support me whenever I face difficulties, even outside of office hours. The workspace is tidy and comfortable, which helps me focus better. However, I think the office should consider adding more individual power outlets instead of using power strips in series, which seems slightly unsafe.
+**1. Working Environment** The working environment is very friendly and open. FCJ members are always ready to support me whenever I face difficulties, even outside of office hours. The workspace is tidy and comfortable, which helps me focus better.
 
 **2. Mentor / Team Admin Support** Mentors provide very detailed guidance, explaining clearly when I don't understand and always encouraging interaction. The team admin supports administrative procedures and documentation, creating favorable conditions for my work.
 
