@@ -1,6 +1,9 @@
 ---
 title: "Week 1 Worklog"
 date: 09-03-2026
+weight: 2
+chapter: false
+pre: " <b> 1.1. </b> "
 ---
 
 ### Week 1 Objectives:

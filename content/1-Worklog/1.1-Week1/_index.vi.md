@@ -1,6 +1,9 @@
 ---
 title: "Worklog Tuần 1"
 date: 09-03-2026
+weight: 2
+chapter: false
+pre: " <b> 1.1. </b> "
 ---
 
 ### Mục tiêu tuần 1:
