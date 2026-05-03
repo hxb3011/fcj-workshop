@@ -1,24 +1,23 @@
 ---
 title: "Week 2 Worklog"
-date: 2024-01-01
-weight: 1
+date: 2026-03-16
+weight: 2
 chapter: false
 pre: " <b> 1.2. </b> "
 ---
 
-## Week 2 Objectives:
+### Week 2 Objectives:
+* Practice creating VPC and EC2.
+* Get familiar with RDS to prepare for the following weeks.
 
-* Continue working with VPC and EC2.
-* Master the usage of AWS CLI.
+### Tasks to be carried out this week:
+| Day | Task | Start Date | Completion Date | Reference Material |
+| --- | ----- | ---------- | ---------------- | ------------------ |
+| Mon | - Practice creating VPC and EC2 | 03/16/2026 | 03/16/2026 | [VPC+EC2](https://000003.awsstudygroup.com/) |
+| Tue | - Practice EC2 (initialize, connect, manage instance) | 03/17/2026 | 03/17/2026 | [EC2](https://000004.awsstudygroup.com/) |
+| Thu | - Get familiar with RDS (initialize database, test connection) | 03/19/2026 | 03/19/2026 | [RDS](https://000005.awsstudygroup.com/) |
 
-### Tasks to be implemented this week:
-
-| Day | Tasks | Start Date | Completion Date | Reference |
-| :--- | :--- | :--- | :--- | :--- |
-| Mon | - Install AWS CLI on local machine <br> - Configure AWS profile using aws configure | 16/03/2026 | 16/03/2026 | |
-| Thu | - Study AWS Networking configuration: <br>&emsp; + Subnet <br>&emsp; + Route table <br>&emsp; + Internet Gateway <br>&emsp; + NAT Gateway <br>&emsp; + VPC <br> - **Practice:** <br>&emsp; + Set up VPC environment and networking components <br>&emsp; + Write AWS CLI scripts to deploy VPC | 19/03/2026 | 19/03/2026 | [AWS Networking Video](https://www.youtube.com/watch?v=WD82W5pEfnY) |
-
-### Week 2 Key Results:
-
-* Successfully developed scripts for rapid VPC cluster deployment and corresponding cleanup (deletion) scripts.
-* Successfully deployed a Node.js application on EC2 and hosted a static website on S3 using both AWS Console and automated scripts.
+### Week 2 Achievements:
+* Successfully created basic VPC and EC2.
+* Understood how to initialize and manage EC2 instances.
+* Became familiar with RDS and performed initial database connection.

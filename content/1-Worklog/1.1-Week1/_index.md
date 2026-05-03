@@ -1,34 +1,21 @@
 ---
 title: "Week 1 Worklog"
-date: 2026-03-09
-weight: 1
-chapter: false
-pre: " <b> 1.1. </b> "
+date: 09-03-2026
 ---
 
 ### Week 1 Objectives:
+* Connect and get acquainted with members of the First Cloud Journey.
+* Familiarize yourself with AWS and its basic services.
+* Practice user management with Amazon IAM.
+* Learn more about **Budget** and **Support Plans** to manage costs and receive appropriate support.
 
-* Team onboarding and orientation regarding the internship program.
-* Watch introductory videos on fundamental AWS services.
+### Tasks to be carried out this week:
+| Day | Task | Start Date | Completion Date | Reference Material |
+| --- | ----- | ---------- | ---------------- | ------------------ |
+| Mon | - Get acquainted with the FCJ team <br> - Read and note the rules and regulations at the internship unit <br> - Explore AWS infrastructure <br> - **Practice:** <br>&emsp; - Create an AWS Free Tier account <br>&emsp; - Set up a simple AWS Budget <br>&emsp; - Create an MFA device for the root account | 03/09/2026 | 03/09/2026 | [https://000001.awsstudygroup.com/](https://000001.awsstudygroup.com/) <br> [https://000007.awsstudygroup.com/](https://000007.awsstudygroup.com/) |
+| Thu | - Continue reviewing AWS guides (Users, Budgets, Support Plan) <br> - **Practice:** <br>&emsp; - Create and manage users with IAM <br>&emsp; - Set up basic access permissions <br>&emsp; - Research **AWS Budget** to track costs <br> - Learn about AWS Support Plans | 03/12/2026 | 03/12/2026 | [https://000001.awsstudygroup.com/](https://000001.awsstudygroup.com/) <br> [https://000009.awsstudygroup.com/](https://000009.awsstudygroup.com/) |
 
-### Tasks to be implemented this week:
-
-| Day | Tasks | Start Date | Completion Date | Documentation |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| Mon | - Met with the mentors and the FCJ team <br> - Read and noted the regulations and rules at the internship unit <br> - Watched videos on AWS Infrastructure <br> - **Practice:** <br>&emsp; - Created an AWS Free Tier account <br>&emsp; - Set up simple AWS Budgets <br>&emsp; - Created MFA device for the root account | 03/09/2026 | 03/09/2026 | |
-| Wed | - Continued watching instructional videos on AWS (Users, Budgets) <br> - **Practice:** <br>&emsp; - Created IAM User Groups and Users <br>&emsp; - Set up various AWS Budgets | 03/11/2026 | 03/11/2026 | |
-
-### Results achieved in Week 1:
-
-* Understood what AWS is and grasped the fundamental categories:
-  * Infrastructure
-  * Management Tools
-  * Budgets
-
-* Successfully created and configured an AWS Free Tier account.
-
-* Became familiar with the AWS Management Console and learned how to search for, access, and use services via the web interface.
-
-* Successfully set up an MFA (Multi-Factor Authentication) device for the account.
-
-* Successfully established AWS Budgets for the account to monitor costs.
+### Week 1 Achievements:
+* Understood how to create users, groups, and assign permissions in IAM.
+* Grasped the concept of **Budget** to control cloud costs.
+* Learned how to choose a suitable support plan for project needs.

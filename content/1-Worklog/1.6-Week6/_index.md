@@ -1,34 +1,23 @@
 ---
 title: "Week 6 Worklog"
-date: 2024-01-01
-weight: 1
+date: 2026-04-13
+weight: 6
 chapter: false
 pre: " <b> 1.6. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
 
 ### Week 6 Objectives:
-
-* Continue developing the application registration system  
-* Apply Terraform to provision AWS infrastructure  
-* Integrate authentication service into the system  
+* Draft and begin working on the project.
+* Learn Terraform to manage infrastructure as code.
 
 ### Tasks to be carried out this week:
-| Day | Task                                                                                                      | Start Date | Completion Date | Reference Material |
-| --- | --------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
-| 2   | - Continue implementing application registration functionality <br> - Improve backend logic               | 04/20/2026 | 04/20/2026      |                    |
-| 5   | - Research and implement Cognito for user authentication <br> - Integrate Cognito User Pool into system  | 04/23/2026 | 04/23/2026      |                    |
+| Day | Task | Start Date | Completion Date | Reference Material |
+| --- | ----- | ---------- | ---------------- | ------------------ |
+| Tue | - Draft the system diagram using draw.io | 04/14/2026 | 04/14/2026 | — |
+| Thu | - Learn Terraform (structure, syntax, infrastructure deployment) | 04/16/2026 | 04/16/2026 | — |
+| Sat | - Write a preliminary script for automated monitoring | 04/18/2026 | 04/18/2026 | — |
 
 ### Week 6 Achievements:
-
-* Successfully used Terraform to provision and manage AWS services required for the application registration system.
-
-* Built and pushed Docker images to Amazon ECR, and deployed the application using Amazon ECS.
-
-* Integrated Amazon Cognito into the system for user authentication and user pool management.
-
-* Updated backend logic to work with Cognito authentication flow and ensured the system operated correctly after integration.
-
-* Gained better understanding of how different AWS services (ECS, ECR, Cognito, Terraform) interact within a real project environment.
+* Completed the system diagram for the project.
+* Gained basic understanding of Terraform and learned how to write configuration files for infrastructure deployment.
+* Wrote a preliminary script to support automated monitoring.
