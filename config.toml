@@ -1,4 +1,4 @@
-baseURL = "https://hxb3011.github.io/fcj-workshop-shared/"
+baseURL = "https://hxb3011.github.io/fcj-workshop/"
 relativeURLs = true
 canonifyURLs = true
 defaultContentLanguage = "en"
@@ -12,8 +12,8 @@ home = [ "HTML", "RSS", "JSON"]
 
 [params]
   themeVariant = "workshop"
-  editURL = "https://github.com/hxb3011/fcj-workshop-shared/tree/main/content/"
-  description = "Documentation for Workshop"
+  editURL = "https://github.com/hxb3011/fcj-workshop/tree/main/content/"
+  description = "Documentation for Project Workshop"
   author = "hxb3011@outlook.com"
   showVisitedLinks = true
   disableBreadcrumb = false

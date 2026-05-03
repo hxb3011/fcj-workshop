@@ -8,25 +8,25 @@ chapter: false
 # Internship Report
 
 ### Student Information:
-&emsp; **Full Name:** Tran Gia Bao
+&emsp; **Full Name:** Huynh Xuan Bach
 
-&emsp; **Phone Number:** 0386152395 
+&emsp; **Phone Number:** 0378454194 
 
-&emsp; **Email:** trangiabao16082003@gmail.com
+&emsp; **Email:** hxb3011@outlook.com
 
 &emsp; **University:** Sai Gon University
 
 &emsp; **Major:** Software Engineer
 
-&emsp; **Class:** AWS032026
+&emsp; **Class:** DKP1212
 
 &emsp; **Internship Company:** Amazon Web Services Vietnam Co., Ltd.
 
-&emsp; **Internship Position:** FCJ Cloud Intern
+&emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
 &emsp; **Internship Duration:** From 09/03/2026 to 02/05/2026
 
-![Your profile picture](/images/avatar.png)
+![Your profile picture](/images/avatar.jpg)
 
 ### Report Content
 

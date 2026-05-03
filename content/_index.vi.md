@@ -7,25 +7,25 @@ chapter: false
 
 # Báo cáo thực tập
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Trần Gia Bảo
+&emsp; **Họ và tên:** Huỳnh Xuân Bách
 
-&emsp; **Số điện thoại:** 0386152395
+&emsp; **Số điện thoại:** 0378454194
 
-&emsp; **Email:** trangiabao16082003@gmail.com
+&emsp; **Email:** hxb3011@outlook.com
 
 &emsp; **Trường:** Đại học Sài Gòn
 
 &emsp; **Ngành:** Kỹ thuật phần mềm
 
-&emsp; **Lớp:** AWS032026
+&emsp; **Lớp:** DKP1212
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Vietnam
 
-&emsp; **Vị trí thực tập:** FCJ Cloud Intern
+&emsp; **Vị trí thực tập:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Thời gian thực tập:** Từ ngày 09/03/2025 đến ngày 05/03/2025
+&emsp; **Thời gian thực tập:** Từ ngày 09/03/2026 đến ngày 02/05/2026
 
-![Ảnh đại diện của bạn](/images/avatar.png)
+![Ảnh đại diện của bạn](/images/avatar.jpg)
 
 ### Nội dung báo cáo
 
