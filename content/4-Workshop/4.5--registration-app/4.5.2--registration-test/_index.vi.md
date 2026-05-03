@@ -1,7 +1,7 @@
 ---
 title : "Kiểm thử thực tế cổng đăng ký"
 date : 2026-05-02
-weight : 2
+weight : 12
 chapter : false
 pre : " <b> 4.5.2 </b> "
 ---

@@ -1,7 +1,7 @@
 ---
 title : "Environment Preparation"
 date : 2026-05-02
-weight : 1
+weight : 6
 chapter : false
 pre : " <b> 4.1. </b> "
 ---

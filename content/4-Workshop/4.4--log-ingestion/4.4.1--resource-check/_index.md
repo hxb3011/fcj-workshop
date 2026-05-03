@@ -1,7 +1,7 @@
 ---
 title: "Resource Check"
 date: 2026-05-02
-weight: 1
+weight: 10
 chapter: false
 pre: "<b> 4.4.1 </b>"
 ---

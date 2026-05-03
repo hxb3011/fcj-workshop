@@ -1,7 +1,7 @@
 ---
 title: "Giải pháp nâng cao"
 date: 2025-05-02
-weight: 6
+weight: 11
 chapter: false
 pre: " <b> 4.6 </b> "
 ---

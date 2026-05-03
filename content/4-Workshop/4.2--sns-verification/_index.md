@@ -1,7 +1,7 @@
 ---
 title: "SNS Notification Service"
 date: 2026-05-02
-weight: 2
+weight: 7
 chapter: false
 pre: " <b> 4.2. </b> "
 ---

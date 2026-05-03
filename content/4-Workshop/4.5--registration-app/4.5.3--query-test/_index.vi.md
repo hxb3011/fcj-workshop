@@ -1,7 +1,7 @@
 ---
 title : "Kiểm thử truy vấn toàn diện"
 date : 2026-05-02
-weight : 3
+weight : 13
 chapter : false
 pre : " <b> 4.5.3 </b> "
 ---

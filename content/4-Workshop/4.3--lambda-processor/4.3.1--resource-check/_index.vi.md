@@ -1,7 +1,7 @@
 ---
 title: "Kiểm tra tài nguyên"
 date: 2026-05-02
-weight: 1
+weight: 9
 chapter: false
 pre: "<b> 4.3.1 </b>"
 ---

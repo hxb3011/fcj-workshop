@@ -1,7 +1,7 @@
 ---
 title: "Self-Assessment"
 date: 2026-05-03
-weight: 5
+weight: 6
 chapter: false
 pre: " <b> 5. </b> "
 ---

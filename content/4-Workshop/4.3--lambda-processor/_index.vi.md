@@ -1,7 +1,7 @@
 ---
 title: "Lambda Processor"
 date: 2026-05-02
-weight: 3
+weight: 8
 chapter: false
 pre: "<b> 4.3 </b>"
 ---

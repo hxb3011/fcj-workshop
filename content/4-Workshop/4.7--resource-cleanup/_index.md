@@ -1,7 +1,7 @@
 ---
 title : "Clean Up"
 date : 2025-05-02
-weight : 7
+weight : 12
 chapter : false
 pre : " <b> 4.7. </b> "
 ---

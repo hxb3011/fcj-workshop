@@ -1,7 +1,7 @@
 ---
 title : "User Registration System"
 date : 2026-05-02
-weight : 5
+weight : 10
 chapter : false
 pre : " <b> 4.5. </b> "
 ---

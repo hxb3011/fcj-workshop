@@ -1,7 +1,7 @@
 ---
 title : "Kiểm tra hạ tầng cổng đăng ký"
 date : 2026-05-02
-weight : 1
+weight : 11
 chapter : false
 pre : " <b> 4.5.1 </b> "
 ---
